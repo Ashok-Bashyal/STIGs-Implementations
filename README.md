@@ -1,5 +1,5 @@
 
-# STIGs Implementation and Security Hardening
+# STIGs Implementation
 
 ## Project Overview
 
