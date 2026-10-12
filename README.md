@@ -23,9 +23,6 @@ The project focuses on applying security configurations using **PowerShell**, va
 - **Tenable Nessus** – Vulnerability scanning and STIG compliance assessment.
 
 ## STIG Implementation
-
-Each PowerShell script in the `STIG` folder addresses a specific security configuration requirement.
-
 Scripts are designed to:
 
 1. Identify the required security configuration.
